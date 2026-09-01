@@ -1,14 +1,16 @@
 # Contributing to .github
 
-This repository holds [Ream-st](https://github.com/Ream-st)'s GitHub org profile — its `README.md` is what
-renders on [github.com/Ream-st](https://github.com/Ream-st). It's a [Stux.Group](https://stux.group) project and
-isn't open to public pull requests.
+This repository holds [Ream-st](https://github.com/Ream-st)'s GitHub org profile. `profile/README.md` — not the
+root `README.md` — is what GitHub actually renders on [github.com/Ream-st](https://github.com/Ream-st); the root
+`README.md` is just this repo's own landing page, pointing at that file and listing the org's repos for anyone
+who lands here directly. It's a [Stux.Group](https://stux.group) project and isn't open to public pull requests.
 
 ## Project conventions
 
-- Keep the projects table in `README.md` in sync with the actual repos under the `Ream-st` org — add a row when a
-  new repo is created, remove one if a repo is archived or deleted.
-- Don't duplicate legal or contact content here — it links out to [ream.st/legal](https://ream.st/legal).
+- Keep the projects table in both `README.md` and `profile/README.md` in sync with the actual repos under the
+  `Ream-st` org — add a row when a new repo is created, remove one if a repo is archived or deleted.
+- Don't duplicate legal or contact content beyond `profile/README.md`'s short summary — the real thing lives at
+  [ream.st/legal](https://ream.st/legal).
 
 ## Versioning and changelog
 
