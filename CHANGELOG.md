@@ -2,6 +2,16 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.1.2
+
+### Fixed
+- `README.md`/`profile/README.md`'s logo pointed at `raw.githubusercontent.com/Ream-st/Website/...`, which 404s
+  because every Ream-st repo is private and `raw.githubusercontent.com` can't serve private-repo content without
+  auth — copied `logo-mark.svg` into this repo's own `assets/` and switched both READMEs to a relative path,
+  which GitHub resolves correctly for private repos
+- The `Website:`/`Repository:` lines in the root `README.md` were rendering as one run-together line — added the
+  same trailing hard line break already used in `profile/README.md`
+
 ## v1.1.1
 
 ### Fixed

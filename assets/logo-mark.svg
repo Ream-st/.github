@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40" role="img" aria-label="Ream.st three-dot mark">
+  <title>Ream.st</title>
+  <g fill="none" stroke-width="3">
+    <circle cx="20" cy="20" r="9" stroke="#9146ff"/>
+    <circle cx="20" cy="20" r="4" fill="#9146ff"/>
+    <circle cx="60" cy="20" r="9" stroke="#ff3b3b"/>
+    <circle cx="60" cy="20" r="4" fill="#ff3b3b"/>
+    <circle cx="100" cy="20" r="9" stroke="#0044ff"/>
+    <circle cx="100" cy="20" r="4" fill="#0044ff"/>
+  </g>
+</svg>

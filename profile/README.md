@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ream-st/Website/main/assets/logo-mark.svg" width="140" alt="Ream.st">
+  <img src="../assets/logo-mark.svg" width="140" alt="Ream.st">
 </p>
 
 # Ream.st
