@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Ream-st/Website/main/assets/logo-mark.svg" width="140" alt="Ream.st">
 </p>
 
-# Ream-st .github
+# Ream.st .github
 
-GitHub organisation profile for [Ream-st](https://github.com/Ream-st).
+GitHub organisation profile for [Ream.st](https://github.com/Ream-st).
 
 Website: https://ream.st
 Repository: https://github.com/Ream-st/.github
@@ -12,7 +12,7 @@ Repository: https://github.com/Ream-st/.github
 ## Contents
 
 - **`profile/README.md`** — the public-facing organisation profile shown on
-  the [Ream-st organisation page](https://github.com/Ream-st) on GitHub.
+  the [Ream.st organisation page](https://github.com/Ream-st) on GitHub.
 
 ## Repositories
 

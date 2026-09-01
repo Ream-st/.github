@@ -9,7 +9,8 @@
 [Ream.st](https://ream.st) builds free multi-view stream viewers so you can follow every play, angle, and creator
 at once. No accounts, no ads, no analytics scripts, no third-party trackers.
 
-**Website:** https://ream.st
+**Website:** https://ream.st  
+**Repository:** https://github.com/Ream-st/.github
 
 ## Repositories
 

@@ -2,6 +2,13 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.1.1
+
+### Fixed
+- "Ream-st" (the GitHub org slug) was showing up as display text in the root `README.md` heading and prose — the
+  brand name is "Ream.st"; the hyphenated form now only appears inside actual `github.com/Ream-st/...` URLs
+- `profile/README.md` was missing a `Repository:` line (root `README.md` already had one, below `Website:`)
+
 ## v1.1.0
 
 ### Added
