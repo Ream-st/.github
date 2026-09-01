@@ -2,6 +2,18 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.1.3
+
+### Added
+- `.gitattributes` forcing `*.bat` to CRLF and `*.sh` to LF on checkout — relying on `core.autocrlf` alone is a
+  per-developer setting (and doesn't even convert on checkout under the common `autocrlf=input`), so a clone with
+  different settings could reintroduce the same LF-only `.bat` breakage
+
+### Fixed
+- `commit.bat` was saved with LF-only line endings, which native `cmd.exe` batch parsing isn't reliable with —
+  converted to CRLF, the format Windows batch files actually require. (Found while chasing a "cannot find the
+  batch label specified" failure in the sister repos' `dev-server.bat`, which use the same encoding)
+
 ## v1.1.2
 
 ### Fixed
