@@ -23,6 +23,10 @@ Repository: https://github.com/Ream-st/.github
 | [Multi.st-Twitch](https://github.com/Ream-st/Multi.st-Twitch) | twitch.multi.st — the Twitch multi-view viewer |
 | [Multi.st-Youtube](https://github.com/Ream-st/Multi.st-Youtube) | youtube.multi.st — the YouTube multi-view viewer |
 
+## Contact
+
+General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [legal@ream.st](mailto:legal@ream.st)
+
 ## Credits
 
 <a href="https://stux.group"><img src="https://media.stux.group/global/logo.png" width="200" alt="Stux.Group"></a>

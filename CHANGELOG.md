@@ -2,6 +2,12 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.2.0
+
+### Added
+- A `## Contact` section in the root `README.md` — `profile/README.md` already had one, but the root landing
+  page didn't. Same content in both: general questions at `hello@ream.st`, legal/privacy at `legal@ream.st`
+
 ## v1.1.3
 
 ### Added
