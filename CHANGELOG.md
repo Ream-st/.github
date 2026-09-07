@@ -2,6 +2,16 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.3.0
+
+### Added
+- `.github/workflows/generateMetrics.yml` — the org-metrics workflow was present in [StuxGroup/.github]
+  (https://github.com/StuxGroup/.github) but missing here. Generates `stats.svg`, `notable_simple.svg` and
+  `notable_indepth.svg` via `gh-metrics/metrics`, committed to an orphan `metrics` branch daily and on push to
+  `main`. Requires a `METRICS_TOKEN` secret (a PAT with repo/org read scope) set on this repository
+- An `## Our Activity` section in `profile/README.md` embedding `stats.svg` from the `metrics` branch, matching
+  the StuxGroup profile
+
 ## v1.2.0
 
 ### Added

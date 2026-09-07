@@ -1,0 +1,100 @@
+# GitHub Action for generating metrics
+name: Generate Metrics
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Ensure metrics branch exists
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/git/refs/heads/metrics" --silent 2>/dev/null || \
+          gh api "repos/$GITHUB_REPOSITORY/git/refs" \
+            --method POST \
+            -f ref="refs/heads/metrics" \
+            -f sha="$(gh api "repos/$GITHUB_REPOSITORY/git/refs/heads/main" --jq '.object.sha')"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  stats:
+    needs: setup
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: gh-metrics/metrics@4bec7bde733c1dd3c5139ce2146d94a34ae62096
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "build: update `stats`"
+
+          user: Ream-st
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/London
+          config_output: svg
+          config_padding: 0, 30
+          filename: stats.svg
+
+  notable_simple:
+    needs: setup
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: gh-metrics/metrics@727b269a0e1af233e88b535a7555bb736e54b4b2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "build: update `notable_simple`"
+
+          user: Ream-st
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/London
+          config_output: svg
+          config_padding: 0, 30
+          filename: notable_simple.svg
+
+          plugin_notable: yes
+          plugin_notable_filter: stars:>25
+
+  notable_indepth:
+    needs: setup
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: gh-metrics/metrics@727b269a0e1af233e88b535a7555bb736e54b4b2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "build: update `notable_indepth`"
+
+          user: Ream-st
+          template: classic
+          base: ""
+          config_display: large
+          config_timezone: Europe/London
+          config_output: svg
+          config_padding: 0, 30
+          filename: notable_indepth.svg
+
+          plugin_notable: yes
+          plugin_notable_filter: stars:>25
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          plugin_notable_from: all

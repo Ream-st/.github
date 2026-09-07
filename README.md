@@ -13,6 +13,8 @@ Repository: https://github.com/Ream-st/.github
 
 - **`profile/README.md`** — the public-facing organisation profile shown on
   the [Ream.st organisation page](https://github.com/Ream-st) on GitHub.
+- **`.github/workflows/generateMetrics.yml`** — generates the `stats.svg` (and notable-repo SVGs) embedded in
+  `profile/README.md`, committed to an orphan `metrics` branch on a daily schedule.
 
 ## Repositories
 

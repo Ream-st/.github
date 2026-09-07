@@ -21,6 +21,12 @@ at once. No accounts, no ads, no analytics scripts, no third-party trackers.
 | [Multi.st-Twitch](https://github.com/Ream-st/Multi.st-Twitch) | twitch.multi.st — the Twitch multi-view viewer |
 | [Multi.st-Youtube](https://github.com/Ream-st/Multi.st-Youtube) | youtube.multi.st — the YouTube multi-view viewer |
 
+## Our Activity
+
+<div align="center">
+  <img width="512" src="https://raw.githubusercontent.com/Ream-st/.github/metrics/stats.svg">
+</div>
+
 ## Legal
 
 Privacy, Terms, Cookies, Imprint, Disclaimer and Opt-Out for every Ream.st site live in one place:
