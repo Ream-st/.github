@@ -31,10 +31,14 @@ General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [lega
 
 ## Credits
 
-<a href="https://stux.group"><img src="https://media.stux.group/global/logo.png" width="200" alt="Stux.Group"></a>
+<a href="https://stux.group"><img src="https://global.media.stux.group/global/logo.png" width="200" alt="Stux.Group"></a>
 
 Built and maintained by **[Stux.Group](https://stux.group)**.
 
 <a href="https://stuxedo.com"><img src="https://global.media.stuxedo.com/badges/rectangle-badge.png" width="300" alt="Powered and hosted by Stuxedo"></a>
 
 Powered and hosted by **[Stuxedo](https://stuxedo.com)**.
+
+---
+
+*Ream.st is part of the <img src="https://global.media.stux.group/global/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
