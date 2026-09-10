@@ -2,6 +2,12 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.3.2
+
+### Fixed
+- The Stux.Group logo/icon URL in `README.md` and `profile/README.md` pointed at
+  `global.media.stux.group/global/logo.png` (and `/icon.png`) — the extra `/global/` path segment is gone
+
 ## v1.3.1
 
 ### Fixed

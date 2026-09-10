@@ -38,7 +38,7 @@ General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [lega
 
 ## Credits
 
-<a href="https://stux.group"><img src="https://global.media.stux.group/global/logo.png" width="200" alt="Stux.Group"></a>
+<a href="https://stux.group"><img src="https://global.media.stux.group/logo.png" width="200" alt="Stux.Group"></a>
 
 Built and maintained by **[Stux.Group](https://stux.group)**.
 
@@ -48,4 +48,4 @@ Powered and hosted by **[Stuxedo](https://stuxedo.com)**.
 
 ---
 
-*Ream.st is part of the <img src="https://global.media.stux.group/global/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
+*Ream.st is part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
