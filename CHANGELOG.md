@@ -2,6 +2,13 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.0
+
+### Added
+- `assets/logo.svg` / `assets/logo-dark.svg` replace the old dot-only `assets/logo-mark.svg` in `README.md` and
+  `profile/README.md` — the org profile now shows the full "REAM.ST" wordmark, and picks the light or dark
+  variant via a `<picture>` with `prefers-color-scheme` sources so it matches GitHub's own theme
+
 ## v1.3.2
 
 ### Fixed

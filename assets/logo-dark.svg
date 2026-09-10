@@ -1,0 +1,32 @@
+<!-- reamst-logo-dark.svg — same as logo.svg, light-colored wordmark for dark
+     backgrounds (e.g. GitHub's dark theme, selected via <picture> in READMEs) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Ream.st</title>
+  <desc id="desc">The Ream.st ring-and-dot mark beside the REAM.ST wordmark.</desc>
+  <style>
+    .ream-wordmark {
+      fill: #e7ecff;
+      font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 34px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+  </style>
+  <defs>
+    <!-- Subtle blue glow around the ring, matching favicon.svg -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#0044ff" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Blue ring (accent #0044FF) -->
+  <g filter="url(#glow)">
+    <circle cx="32" cy="32" r="26" fill="none" stroke="#0044ff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Inner live dot -->
+  <circle cx="32" cy="32" r="12" fill="#0044ff"/>
+
+  <!-- Wordmark -->
+  <text x="78" y="33" class="ream-wordmark" dominant-baseline="central">REAM.ST</text>
+</svg>

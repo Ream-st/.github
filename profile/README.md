@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="../assets/logo-mark.svg" width="140" alt="Ream.st">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/logo.svg">
+    <img src="../assets/logo.svg" width="240" height="64" alt="Ream.st">
+  </picture>
 </p>
 
 # Ream.st
