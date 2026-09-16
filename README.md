@@ -31,13 +31,13 @@ Repository: https://github.com/Ream-st/.github
 
 ## Contact
 
-General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [legal@stux.dev](mailto:legal@stux.dev)
+General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [legal@ream.st](mailto:legal@ream.st)
 
 ## Credits
 
-<a href="https://stux.dev"><img src="https://global.media.stux.dev/logo.png" width="200" alt="Stux.Dev"></a>
+<a href="https://stux.group"><img src="https://global.media.stux.group/logo.png" width="200" alt="Stux.Group"></a>
 
-Built and maintained by **[Stux.Dev](https://stux.dev)**.
+Built and maintained by **[Stux.Group](https://stux.group)**.
 
 <a href="https://stuxedo.com"><img src="https://global.media.stuxedo.com/badges/rectangle-badge.png" width="300" alt="Powered and hosted by Stuxedo"></a>
 
@@ -45,4 +45,4 @@ Powered and hosted by **[Stuxedo](https://stuxedo.com)**.
 
 ---
 
-*Ream.st is operated by <img src="https://global.media.stux.dev/icon.png" height="14" alt="Stux.Dev" valign="middle"> [Stux.Dev](https://stux.dev), which is operated by Stux Group Ltd, a company registered in England and Wales (company no. 13160574), registered office 82a James Carter Road, Mildenhall, England, IP28 7DE.*
+*Ream.st is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*

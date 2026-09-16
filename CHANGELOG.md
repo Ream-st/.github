@@ -2,6 +2,11 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.2
+
+### Fixed
+- v1.4.1 incorrectly recategorized Ream.st as a Stux.Dev project — it's actually a direct Stux Group Ltd service. Reverted `README.md`, `profile/README.md`, and `CONTRIBUTING.md` back to naming Stux.Group as the operator ("a Stux.Group Service", linking to `https://services.stux.group`), and reverted the legal contact address back to `legal@ream.st`.
+
 ## v1.4.1
 
 ### Fixed
