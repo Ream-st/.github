@@ -8,7 +8,7 @@
 
 # Ream.st
 
-**Multi Stream Viewer Provider** — watch multiple streams at once.
+### *One Viewer, One Provider, Multiple Streams!*
 
 [Ream.st](https://ream.st) builds free multi-view stream viewers so you can follow every play, angle, and creator
 at once. No accounts, no ads, no analytics scripts, no third-party trackers.

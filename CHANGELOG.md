@@ -2,6 +2,11 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.4
+
+### Changed
+- `profile/README.md`'s tagline changed from "Multi Stream Viewer Provider" to "One Viewer, One Provider, Multiple Streams!", and reformatted from `**bold**` to the `### *italic*` heading style used for taglines elsewhere in the family.
+
 ## v1.4.3
 
 ### Added
