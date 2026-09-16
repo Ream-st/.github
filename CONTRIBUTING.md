@@ -3,7 +3,7 @@
 This repository holds [Ream-st](https://github.com/Ream-st)'s GitHub org profile. `profile/README.md` — not the
 root `README.md` — is what GitHub actually renders on [github.com/Ream-st](https://github.com/Ream-st); the root
 `README.md` is just this repo's own landing page, pointing at that file and listing the org's repos for anyone
-who lands here directly. It's a [Stux.Group](https://stux.group) project and isn't open to public pull requests.
+who lands here directly. It's [a Stux.Dev project](https://projects.stux.dev) and isn't open to public pull requests.
 
 ## Project conventions
 

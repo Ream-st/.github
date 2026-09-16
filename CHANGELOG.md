@@ -2,6 +2,12 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.1
+
+### Fixed
+- `README.md`, `profile/README.md`, and `CONTRIBUTING.md` said Ream.st is "built and maintained by Stux.Group" / "a Stux.Group project" directly — the actual chain is Ream.st → Stux.Dev → Stux Group Ltd. Corrected all three to name Stux.Dev as the direct operator, with Stux Group Ltd's full registration details on the footer credit line.
+- The legal contact address was `legal@ream.st` — unified to `legal@stux.dev` to match the other Stux.Dev-operated products. `hello@ream.st` (general contact) is unchanged.
+
 ## v1.4.0
 
 ### Added
