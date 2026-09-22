@@ -16,14 +16,14 @@ at once. No accounts, no ads, no analytics scripts, no third-party trackers.
 **Website:** https://ream.st  
 **Repository:** https://github.com/Ream-st/.github
 
-## Repositories
+### Our Projects
 
-| Repo | Description |
-|------|-------------|
-| [Website](https://github.com/Ream-st/Website) | ream.st — landing page and the shared Boring Legal Stuff hub |
-| [Multi.st](https://github.com/Ream-st/Multi.st) | multi.st root — redirect glue only, no content of its own |
-| [Multi.st-Twitch](https://github.com/Ream-st/Multi.st-Twitch) | twitch.multi.st — the Twitch multi-view viewer |
-| [Multi.st-Youtube](https://github.com/Ream-st/Multi.st-Youtube) | youtube.multi.st — the YouTube multi-view viewer |
+| Project | What it is |
+|---|---|
+| 🌐 [Website](https://github.com/Ream-st/Website) | ream.st — landing page and the shared Boring Legal Stuff hub |
+| 🔀 [Multi.st](https://github.com/Ream-st/Multi.st) | multi.st root — redirect glue only, no content of its own |
+| 🟣 [Multi.st-Twitch](https://github.com/Ream-st/Multi.st-Twitch) | twitch.multi.st — the Twitch multi-view viewer |
+| ▶️ [Multi.st-Youtube](https://github.com/Ream-st/Multi.st-Youtube) | youtube.multi.st — the YouTube multi-view viewer |
 
 ## Our Activity
 
@@ -46,16 +46,7 @@ Privacy, Terms, Cookies, Imprint, Disclaimer and Opt-Out for every Ream.st site 
 
 General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [legal@ream.st](mailto:legal@ream.st)
 
-## Credits
-
-<a href="https://stux.group"><img src="https://global.media.stux.group/logo.png" width="200" alt="Stux.Group"></a>
-
-Built and maintained by **[Stux.Group](https://stux.group)**.
-
-<a href="https://stuxedo.com"><img src="https://global.media.stuxedo.com/badges/rectangle-badge.png" width="300" alt="Powered and hosted by Stuxedo"></a>
-
-Powered and hosted by **[Stuxedo](https://stuxedo.com)**.
-
 ---
 
-*Ream.st is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
+*Built & Maintained by <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://stux.group), Hosted by <img src="https://github.com/Stuxedo.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://stuxedo.com).
+Ream.st is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> Stux.Group brand of businesses.*

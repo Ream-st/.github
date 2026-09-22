@@ -2,6 +2,12 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.5
+
+### Changed
+- `README.md`/`profile/README.md`'s "## Credits" section (large logo images, older verbose format) replaced with the compact italic footer line used by every other org's `.github` repo ("Built & Maintained by Stux.Group, Hosted by Stuxedo. Ream.st is a part of the Stux.Group brand of businesses."), bringing it in line with the rest of the family and reaffirming Stux.Group (not Stux.Dev) as the direct operator, per the v1.4.1 correction.
+- `README.md`/`profile/README.md`'s repo table was still using the older "## Repositories" / `Repo | Description` layout with no per-row icons — a leftover from before the Stux.Group-family convention (Stuxedo/Stux.Dev/Stux.Music: `### Our Projects` / `Project | What it is`, with an emoji per row) was established. Ream.st is a direct Stux.Group service hosted by Stuxedo, so it now matches that sibling convention instead of the StuxieDev-personal-org one.
+
 ## v1.4.4
 
 ### Changed
