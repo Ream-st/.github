@@ -16,9 +16,9 @@ at once. No accounts, no ads, no analytics scripts, no third-party trackers.
 **Website:** https://ream.st  
 **Repository:** https://github.com/Ream-st/.github
 
-### Our Projects
+### Our Services
 
-| Project | What it is |
+| Service | What it is |
 |---|---|
 | 🌐 [Website](https://github.com/Ream-st/Website) | ream.st — landing page and the shared Boring Legal Stuff hub |
 | 🔀 [Multi.st](https://github.com/Ream-st/Multi.st) | multi.st root — redirect glue only, no content of its own |

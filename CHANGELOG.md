@@ -2,6 +2,11 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.6
+
+### Changed
+- `README.md`/`profile/README.md`'s repo table relabelled from "### Our Projects" / `Project | What it is` to "### Our Services" / `Service | What it is` — Website, Multi.st, Multi.st-Twitch, and Multi.st-Youtube are each a Service offered by Ream.st (a Stux.Group Service), not a "Project" in the labelling taxonomy's sense.
+
 ## v1.4.5
 
 ### Changed

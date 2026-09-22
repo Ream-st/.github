@@ -20,9 +20,9 @@ Repository: https://github.com/Ream-st/.github
 - **`.github/workflows/generateMetrics.yml`** — generates the `stats.svg` (and notable-repo SVGs) embedded in
   `profile/README.md`, committed to an orphan `metrics` branch on a daily schedule.
 
-### Our Projects
+### Our Services
 
-| Project | What it is |
+| Service | What it is |
 |---|---|
 | 🌐 [Website](https://github.com/Ream-st/Website) | ream.st — landing page and the shared Boring Legal Stuff hub |
 | 🔀 [Multi.st](https://github.com/Ream-st/Multi.st) | multi.st root — redirect glue only, no content of its own |
