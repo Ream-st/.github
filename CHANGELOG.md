@@ -2,6 +2,18 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.7
+
+### Added
+- PNG copies of every SVG logo and icon, next to each SVG with the same name (`assets/logo.png`, `assets/logo-dark.png`), for places that
+  can't use SVG. Icons are 512×512 and logos 4× their SVG size, with transparent backgrounds. They're
+  rendered with the real IBM Plex Mono font (a standalone SVG falls back to a system monospace), so
+  re-render them whenever an SVG changes.
+
+### Changed
+- `assets/logo.svg`/`logo-dark.svg` synced with the Ream.st Website's: the "REAM.ST" wordmark is now the icon's
+  blue (`#0044ff`).
+
 ## v1.4.6
 
 ### Changed

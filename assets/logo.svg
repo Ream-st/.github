@@ -4,7 +4,7 @@
   <desc id="desc">The Ream.st ring-and-dot mark beside the REAM.ST wordmark.</desc>
   <style>
     .ream-wordmark {
-      fill: #12141c;
+      fill: #0044ff; /* the icon's blue */
       font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
       font-size: 34px;
       font-weight: 700;
