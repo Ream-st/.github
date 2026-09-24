@@ -1,7 +1,7 @@
 <!-- reamst-logo-dark.svg — the dark-theme copy of logo.svg (selected via <picture>
      in READMEs, e.g. for GitHub's dark theme). Both use the icon's blue
      (#0044ff) for the wordmark, so they currently look identical -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229 64" width="229" height="64" role="img" aria-labelledby="title desc">
   <title id="title">Ream.st</title>
   <desc id="desc">The Ream.st ring-and-dot mark beside the REAM.ST wordmark.</desc>
   <style>

@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="../assets/logo.svg">
-    <img src="../assets/logo.svg" width="240" height="64" alt="Ream.st">
+    <img src="../assets/logo.svg" width="229" height="64" alt="Ream.st">
   </picture>
 </p>
 

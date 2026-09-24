@@ -2,6 +2,13 @@
 
 All notable changes to Ream-st/.github are documented here.
 
+## v1.4.8
+
+### Fixed
+- `assets/logo.svg`/`logo-dark.svg` (synced from the Ream.st Website) were wider than their content, leaving a
+  14-unit gap right of "REAM.ST" against 3 on the left. They're cropped to their measured width with equal side
+  margins; the PNG copies and both READMEs' logo size match.
+
 ## v1.4.7
 
 ### Added
