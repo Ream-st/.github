@@ -37,3 +37,7 @@ General questions: [hello@ream.st](mailto:hello@ream.st) · Legal/privacy: [lega
 
 *Built & Maintained by <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> [Stux.Group](https://stux.group), Hosted by <img src="https://github.com/Stuxedo.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://stuxedo.com).
 Ream.st is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> Stux.Group brand of businesses.*
+
+## Versioning
+
+This project uses [Date Versioning](https://datevers.ing): each release is numbered by its UTC release date as `YY.MM.DD` (for example `26.10.23`), with `-1`, `-2`… for later releases the same day. See [CHANGELOG.md](CHANGELOG.md) for what changed in each release.
