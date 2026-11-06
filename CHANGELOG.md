@@ -4,6 +4,17 @@ All notable changes to Ream-st/.github are documented here.
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.06
+
+### Added
+
+- The [Status](https://github.com/Ream-st/Status) repo ([status.ream.st](https://status.ream.st)) and the `ream-st.github.io` redirect repo in the services tables of `profile/README.md` and `README.md`, which had fallen out of step with the org's repos
+- A link to the status page, status.ream.st, next to the website link in both READMEs
+
+### Changed
+
+- New branch flow: work and releases go onto `test` and reach `main` only through a pull request. `commit.sh`/`commit.bat` refuse to release on `main` and print the push and pull-request commands, and CONTRIBUTING describes the flow
+
 ## v26.10.23
 
 ### Added
